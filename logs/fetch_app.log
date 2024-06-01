@@ -1,0 +1,73 @@
+2024-06-01 15:27:54,231 - INFO - 
+	*** Start fetching Page links ***
+2024-06-01 15:28:03,315 - INFO - Index: 1 | Page fetched: https://www.udemy.com/courses/search/?p=1&q=ChatGPT&src=ukw
+2024-06-01 15:28:03,711 - INFO - 	*** Done fetching page links in 0:00:09.479258 ***
+2024-06-01 15:28:03,980 - INFO - 	*** Data inserted into table CourseLinks ***
+2024-06-01 15:28:03,980 - INFO - 
+	*** Start fetching Detail links ***
+2024-06-01 15:28:12,443 - INFO - Index: 2 | Page fetched: https://www.udemy.com/course/chatgpt-ai-masterclass/
+2024-06-01 15:28:12,604 - INFO - Index: 3 | Page fetched: https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/
+2024-06-01 15:28:12,935 - INFO - Index: 1 | Page fetched: https://www.udemy.com/course/complete-ai-guide/
+2024-06-01 15:28:13,532 - INFO - Index: 4 | Page fetched: https://www.udemy.com/course/chatgpt-prompts-mastery-50000-prompts-20-courses-in-1/
+2024-06-01 15:28:20,215 - INFO - Index: 5 | Page fetched: https://www.udemy.com/course/ultimate-chatgpt-course-for-beginners/
+2024-06-01 15:28:20,543 - INFO - Index: 7 | Page fetched: https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2024/
+2024-06-01 15:28:20,897 - INFO - Index: 6 | Page fetched: https://www.udemy.com/course/chatgpt-bard-bing-complete-guide-to-chatgpt-openai-apis/
+2024-06-01 15:28:24,166 - INFO - Index: 8 | Page fetched: https://www.udemy.com/course/ai-mba-25-courses-in-1-chatgpt-midjourney-prompt-mastery/
+2024-06-01 15:28:26,728 - INFO - Index: 9 | Page fetched: https://www.udemy.com/course/chatgpt-for-creative-writing-content-creation/
+2024-06-01 15:28:28,571 - INFO - Index: 10 | Page fetched: https://www.udemy.com/course/chatgpt-for-managers/
+2024-06-01 15:28:28,717 - INFO - Index: 11 | Page fetched: https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/
+2024-06-01 15:28:31,884 - INFO - Index: 12 | Page fetched: https://www.udemy.com/course/chatgpt-prompt-engineering-master-class/
+2024-06-01 15:28:34,212 - INFO - Index: 13 | Page fetched: https://www.udemy.com/course/mastering-creative-automation-canva-and-chatgpt-integration/
+2024-06-01 15:28:36,252 - INFO - Index: 14 | Page fetched: https://www.udemy.com/course/build-your-own-custom-chatgpt-build-custom-chatbot/
+2024-06-01 15:28:37,764 - INFO - Index: 15 | Page fetched: https://www.udemy.com/course/all-of-ai-chatgpt-midjourney-stable-diffusion-app-dev/
+2024-06-01 15:28:39,550 - INFO - Index: 16 | Page fetched: https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/
+2024-06-01 15:28:42,254 - INFO - Index: 17 | Page fetched: https://www.udemy.com/course/chat-gpt/
+2024-06-01 15:28:44,562 - INFO - Index: 18 | Page fetched: https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/
+2024-06-01 15:28:45,541 - INFO - Index: 19 | Page fetched: https://www.udemy.com/course/chatgpt-complete-masterclass/
+2024-06-01 15:28:48,410 - INFO - Index: 20 | Page fetched: https://www.udemy.com/course/chatgpt-midjourney-ai-online-business-freelancing-passive-income/
+2024-06-01 15:28:52,092 - INFO - Index: 22 | Page fetched: https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/
+2024-06-01 15:28:52,340 - INFO - Index: 21 | Page fetched: https://www.udemy.com/course/the-complete-artificial-intelligence-and-chat-gpt-course/
+2024-06-01 15:28:55,333 - INFO - Index: 23 | Page fetched: https://www.udemy.com/course/chatgpt-masterclass-start-using-chatgpt/
+2024-06-01 15:28:56,725 - INFO - Index: 24 | Page fetched: https://www.udemy.com/course/onboarding-new-people-leader-manager-focused-training-course/
+2024-06-01 15:29:00,054 - INFO - Index: 26 | Page fetched: https://www.udemy.com/course/abcs-of-chatgpt-the-ultimate-chatgpt-course-for-beginner/
+2024-06-01 15:29:01,931 - INFO - Index: 25 | Page fetched: https://www.udemy.com/course/59-chatgpt-hacks-to-make-money-online-in-2023/
+2024-06-01 15:29:03,449 - INFO - Index: 27 | Page fetched: https://www.udemy.com/course/chatgpt-for-finance-and-investment-professionals/
+2024-06-01 15:29:04,885 - INFO - Index: 28 | Page fetched: https://www.udemy.com/course/chatgpt-for-managers/
+2024-06-01 15:29:05,225 - INFO - 	*** Done fetching details in 0:01:01.245235 ***
+2024-06-01 15:29:08,474 - INFO - 	*** Data inserted into table DetailCourseLinks ***
+2024-06-01 15:29:08,484 - INFO - 
+	*** Start fetching Instructor links ***
+2024-06-01 15:29:17,420 - INFO - Index: 3 | Page fetched: https://www.udemy.com/user/steveballinger2/
+2024-06-01 15:29:17,889 - INFO - Index: 2 | Page fetched: https://www.udemy.com/user/robin-jesper/
+2024-06-01 15:29:17,990 - INFO - Index: 1 | Page fetched: https://www.udemy.com/user/julian-melanson/
+2024-06-01 15:29:18,051 - INFO - Index: 4 | Page fetched: https://www.udemy.com/user/paul-nene/
+2024-06-01 15:29:26,919 - INFO - Index: 6 | Page fetched: https://www.udemy.com/user/academind/
+2024-06-01 15:29:27,554 - INFO - Index: 5 | Page fetched: https://www.udemy.com/user/joshua-george-8/
+2024-06-01 15:29:27,938 - INFO - Index: 8 | Page fetched: https://www.udemy.com/user/hamza-rouane/
+2024-06-01 15:29:28,205 - INFO - Index: 7 | Page fetched: https://www.udemy.com/user/anand-mishra-133/
+2024-06-01 15:29:35,313 - INFO - Index: 10 | Page fetched: https://www.udemy.com/user/ganapathi-devappa/
+2024-06-01 15:29:35,398 - INFO - Index: 9 | Page fetched: https://www.udemy.com/user/samoattie/
+2024-06-01 15:29:36,894 - INFO - Index: 11 | Page fetched: https://www.udemy.com/user/mtfinstitute/
+2024-06-01 15:29:37,085 - INFO - Index: 12 | Page fetched: https://www.udemy.com/user/john-johnson-534/
+2024-06-01 15:29:42,836 - INFO - Index: 13 | Page fetched: https://www.udemy.com/user/9e832860-9813-4163-b02b-ff8a22dbee85/
+2024-06-01 15:29:44,645 - INFO - Index: 14 | Page fetched: https://www.udemy.com/user/kunal-lonhare/
+2024-06-01 15:29:46,174 - INFO - Index: 16 | Page fetched: https://www.udemy.com/user/sgslo/
+2024-06-01 15:29:46,789 - INFO - Index: 15 | Page fetched: https://www.udemy.com/user/arnold-oberleiter/
+2024-06-01 15:29:50,525 - INFO - Index: 17 | Page fetched: https://www.udemy.com/user/mike-wheeler-5/
+2024-06-01 15:29:54,244 - INFO - Index: 18 | Page fetched: https://www.udemy.com/user/henry-legge-2/
+2024-06-01 15:29:54,556 - INFO - Index: 19 | Page fetched: https://www.udemy.com/user/nikolai-schuler/
+2024-06-01 15:29:55,050 - INFO - Index: 20 | Page fetched: https://www.udemy.com/user/diego-davila/
+2024-06-01 15:29:58,009 - INFO - Index: 21 | Page fetched: https://www.udemy.com/user/chris-haroun/
+2024-06-01 15:30:01,347 - INFO - Index: 22 | Page fetched: https://www.udemy.com/user/lance-junck-3/
+2024-06-01 15:30:03,128 - INFO - Index: 23 | Page fetched: https://www.udemy.com/user/diego-davila/
+2024-06-01 15:30:03,138 - INFO - Index: 24 | Page fetched: https://www.udemy.com/user/steveballinger2/
+2024-06-01 15:30:05,142 - INFO - Index: 25 | Page fetched: https://www.udemy.com/user/hamza-rouane/
+2024-06-01 15:30:08,203 - INFO - Index: 26 | Page fetched: https://www.udemy.com/user/ivan-claudiu/
+2024-06-01 15:30:11,194 - INFO - Index: 28 | Page fetched: https://www.udemy.com/user/ganapathi-devappa/
+2024-06-01 15:30:12,092 - INFO - Index: 27 | Page fetched: https://www.udemy.com/user/alexander-hagmann/
+2024-06-01 15:30:12,432 - INFO - 	*** Done fetching instructor links in 0:01:03.947942 ***
+2024-06-01 15:30:13,996 - INFO - 
+	*** Data inserted into table InstructorDetails ***
+2024-06-01 15:30:14,013 - INFO - 
+	*** Data inserted into table CombinedData ***
+2024-06-01 15:30:14,013 - INFO - Total time for scraping: 0:02:19.805322
