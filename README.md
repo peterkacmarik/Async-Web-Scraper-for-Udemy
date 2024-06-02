@@ -112,6 +112,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+This project is for educational purposes only. Always respect the terms of use of the websites you are scraping.
 
 ## Contact
 
